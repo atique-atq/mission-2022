@@ -9,3 +9,15 @@ display: flex;
 .orange{
     color: orange;
 }
+
+.half-width{
+    padding: 10px;
+    height: 100%;
+    width: 50%;
+}
+
+.half-width img{
+    margin-left: 50px;
+    width: 80%;
+    height: 50%;
+}
