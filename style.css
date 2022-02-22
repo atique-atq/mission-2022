@@ -1,0 +1,11 @@
+body{
+    margin: 0px;
+}
+
+section{
+display: flex;
+}
+
+.orange{
+    color: orange;
+}
