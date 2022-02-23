@@ -56,7 +56,7 @@ body{
 
 .second-section{
     display: flex;
-    margin: 20px 50px;
+    margin: 20px 50px 50px 50px;
 }
 .center-text{
     margin-top: 5%;
@@ -87,4 +87,11 @@ body{
 
 .second-section img{
     width: 50%; 
+}
+
+.third-section{
+    display: flex;
+    margin: 20px 50px;
+    background-image: url(images/bg/dream-bg.png);
+    background-repeat: no-repeat;
 }
