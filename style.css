@@ -91,7 +91,7 @@ body{
 
 .third-section{
     display: flex;
-    margin: 20px 50px;
+    margin: 40px 50px;
     background-image: url(images/bg/dream-bg.png);
     background-repeat: no-repeat;
 }
