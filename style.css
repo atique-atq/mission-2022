@@ -1,5 +1,10 @@
 body{
     margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 250%;
 }
 
 section{
@@ -10,6 +15,10 @@ display: flex;
     color: orange;
 }
 
+.dark-blue{
+    color: rgb(80, 80, 224);
+}
+
 .half-width{
     padding: 10px;
     width: 50%;
@@ -18,4 +27,8 @@ display: flex;
 .half-width img{
     padding-left: 20%;
     width: 55%;
+}
+
+.half-width h1, h2{
+ margin: 0;
 }
