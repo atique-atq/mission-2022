@@ -49,3 +49,10 @@ margin: 20px 40px;
     color: grey;
     font-size: 80%;
 }
+
+#header-border{
+    margin-bottom: 5%;
+    padding-left: 2%;
+    border-left: 5px solid ;
+    border-image: linear-gradient(rgb(26, 21, 21), salmon) 1;
+}
