@@ -123,3 +123,16 @@ body{
 .feedback-div a{
     position: absolute  ;
 }
+
+footer{
+    background-color: rgb(12, 12, 12);
+    text-align: center;
+}
+footer h2{
+    margin: 0px;
+    color: rgb(253, 252, 252);
+}
+footer p{
+    margin: 0px;
+    color: rgb(156, 156, 156);
+}
